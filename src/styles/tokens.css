@@ -1,0 +1,20 @@
+:root {
+  --bg-portfolio: #0d0d0f;
+  --text-primary: rgba(255, 255, 255, 0.96);
+  --text-secondary: rgba(255, 255, 255, 0.68);
+  --text-tertiary: rgba(255, 255, 255, 0.42);
+  --accent-green: #18c875;
+  --sheet-bg: #242426;
+  --overlay-bg: rgba(0, 0, 0, 0.56);
+  --progress-bg: rgba(255, 255, 255, 0.2);
+  --radius-media: 22px;
+  --radius-sheet: 26px;
+  --space-xs: 4px;
+  --space-sm: 8px;
+  --space-md: 16px;
+  --space-lg: 24px;
+  --space-xl: 32px;
+
+  --phone-width: 390px;
+  --phone-height: 844px;
+}
